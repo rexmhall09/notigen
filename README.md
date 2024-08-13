@@ -6,7 +6,8 @@ Notigen is an Android notification generator app that lets users pick a title, c
 
 # Features
 Customizable Notifications: Modify notification content, appearance, and title.
-Source Code
+
+# Source Code
 All the code for this project is available under the master branch. This branch contains the latest updates and features.
 
 # Contributing
