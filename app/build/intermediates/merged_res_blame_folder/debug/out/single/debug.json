@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "notigen.com.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "notigen.com.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/drawable_ic_message.xml.flat",
+        "source": "notigen.com.app-main-20:/drawable/ic_message.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "notigen.com.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "notigen.com.app-main-20:/layout/activity_main.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/drawable_ic_message_bubble.xml.flat",
+        "source": "notigen.com.app-main-20:/drawable/ic_message_bubble.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "notigen.com.app-main-20:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/drawable_ic_dollar_sign.xml.flat",
+        "source": "notigen.com.app-main-20:/drawable/ic_dollar_sign.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/drawable_ic_notification_bell.xml.flat",
+        "source": "notigen.com.app-main-20:/drawable/ic_notification_bell.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "notigen.com.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "notigen.com.app-merged_res-18:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "notigen.com.app-main-20:/drawable/ic_launcher_foreground.xml"
+    }
+]

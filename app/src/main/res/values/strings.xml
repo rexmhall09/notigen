@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notigen</string>
+    <string name="button">Send</string>
+    <string-array name="icon_array">
+        <item>Message Bubble</item>
+        <item>Notification Bell</item>
+        <item>Dollar Sign</item>
+    </string-array>
+</resources>
