@@ -1,4 +1,4 @@
-#notigen
+#Notigen
 An Android Notification Generator
 
 #Overview
